@@ -805,6 +805,10 @@
           "AUTH_URL": "http://mediaproxy.imtbs-tsp.eu/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=U033137T_8"
         },
         {
+          "name": "Médiathèques Rennes Métropole",
+          "AUTH_URL": "https://www.lesmediatheques-rennesmetropole.fr/page/identification?ressource=2281?backurl=https://nouveau.europresse.com/access/httpref/default.aspx?un=CARMU_2"
+        },
+        {
           "name": "Rennes School of Business",
           "AUTH_URL": "https://rennes-sb.idm.oclc.org/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=RENNES2T_2"
         },
